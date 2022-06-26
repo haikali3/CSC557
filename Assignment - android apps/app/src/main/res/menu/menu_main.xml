@@ -1,0 +1,55 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context="com.example.indiapp.aboutMe">
+
+
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        android:icon="@drawable/ic_baseline_logout_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/hobbies"
+        android:orderInCategory="100"
+        android:title="Hobbies"
+        android:icon="@drawable/ic_hobby"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/skills"
+        android:orderInCategory="100"
+        android:title="Skills"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/resume"
+        android:orderInCategory="100"
+        android:title="Resume"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/web"
+        android:orderInCategory="100"
+        android:title="Web"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/uitm"
+                android:orderInCategory="1"
+                android:title="UiTM"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/istudent"
+                android:orderInCategory="2"
+                android:title="iStudent"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/omnifood"
+        android:orderInCategory="100"
+        android:title="Omnifood"
+        app:showAsAction="never" />
+
+</menu>
