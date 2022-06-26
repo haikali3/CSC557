@@ -4,19 +4,19 @@ Mobile Programming
 
 ## Requirements
 
-- VSCode must be installed
+- VSCode must be installed (**mandatory**)
     - if you don't have installed it yet, you can download it [here](https://code.visualstudio.com/download)
 - Android Studio  should be installed (**mandatory**)
     - if you don't have installed it yet, you can download it [here](https://developer.android.com/studio)
-- Google Chroome should be installed or you can use any browser that you preferred (**optional**)
+- Google Chrome should be installed or you can use any browser that you preferred (**optional**)
 
 ## Get Started
-If you decided to run resume file. Only VS Code is needed but if you intend to run android application too,  
+If you decided to run my resume file. Only VS Code is needed but if you intend to run android application too,  
 Use Android Studio
 
 ### How to run this repository?
 1.Click on the code button (green button with white text)  
-2.Clone this repository and run it either by GitHub Desktop or ``command prompt``  
+2.Clone this repository and run it either by GitHub Desktop(**Recommended**) or ``command prompt``  
 Install it
 ```git
 git clone https://github.com/<YOUR USER>/CSC557.git
