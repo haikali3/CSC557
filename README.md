@@ -46,7 +46,7 @@ cd CSC557
 1. Open VS Code.
 2. Download HTML extension if you do not have it.
 3. Download `Live Server` extension if you do not have it.
-4. Open `Resume` file
+4. Open `HTML` folder and open `index.html` file
 5. Right click anywhere on `index.html`.
 6. Open with `Live server`.
    
