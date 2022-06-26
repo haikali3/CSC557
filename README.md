@@ -31,7 +31,7 @@ cd CSC557
 4. Use emulator or physical phone via USB to open up the application
    - Emulator guide [here](https://www.youtube.com/watch?v=P1LFl5CYulc)
    - Connect to android studio with phone throught USB [here](https://www.youtube.com/watch?v=kpTPRsPOpRs)
-6. Run the apps or pressing ``Shift + F10``
+6. Run the apps or by pressing ``Shift + F10``
 7. The app contained 9 activities/pages:
    - MainActivity (Login page)
    - signUp
@@ -41,6 +41,14 @@ cd CSC557
    - Resume
    - WebApp
    - WebUiTM
+
+###How to run resume HTML project.
+1. Open VS Code.
+2. Download HTML extension if you do not have it.
+3. Download `Live Server` extension if you do not have it.
+4. Open `Resume` file
+5. Right click anywhere on `index.html`.
+6. Open with `Live server`.
    
 
 
